@@ -1,0 +1,17 @@
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CopyComplete
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+c:\Users\Intern 38\Documents\Project\obj\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
